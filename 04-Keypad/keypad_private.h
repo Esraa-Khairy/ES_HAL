@@ -1,0 +1,2 @@
+#define KEYPAD_RAWMAXNUM 4
+#define KEYPAD_COLMAXNUM 4
